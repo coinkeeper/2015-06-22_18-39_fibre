@@ -205,6 +205,7 @@ OBJS= \
 	obj/rpcdump.o \
 	obj/rpcnet.o \
 	obj/rpcmining.o \
+	obj/rpcsmessage.o \
 	obj/rpcwallet.o \
 	obj/rpcblockchain.o \
 	obj/rpcrawtransaction.o \
@@ -220,6 +221,7 @@ OBJS= \
 	obj/scrypt-arm.o \
 	obj/scrypt-x86.o \
 	obj/scrypt-x86_64.o \
+	obj/smessage.o \
 	obj/json_spirit_reader.o \
 	obj/json_spirit_writer.o
 
